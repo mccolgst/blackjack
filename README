@@ -1,3 +1,6 @@
 blackjack implementation in python
 
 The classes for Deck and Cards were from wikipedia
+
+TODO: make client/server
+	  remember a person's score
